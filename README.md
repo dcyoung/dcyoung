@@ -1,3 +1,5 @@
+![dcyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcyoung&show_icons=true&count_private=true)
+
 I am a passionate Machine Learning Engineer applying research to products. I like reasoning about systems, thinking through problems and applying technology with intent to create tooling where none exists. I hold multiple engineering degrees with experience in diverse fields including Bio-medical Research, Sensor Design and Manufacture, Robotics, Automation, Cloud Software and Document Processing.
 
 **At Work**
