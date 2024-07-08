@@ -1,6 +1,6 @@
 ![dcyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcyoung&show_icons=true&count_private=true)
 
-I am a passionate Engineer, applying research and building technology products. I enjoy reasoning about systems, thinking through problems and applying technology with intent to create tooling where none exists. I hold multiple engineering degrees with experience in diverse fields including Bio-medical Research, Sensor Design and Manufacture, Robotics, Automation, Document Processing, IOT & Geospatial Data Processing and Cellular Networking.   
+I am a passionate Engineer focused on software products. I enjoy reasoning about systems, conducting pragmatic research and building new technology. I hold multiple engineering degrees with experience in diverse fields including Bio-medical Research, Sensor Design and Manufacture, Robotics, Automation, Document Processing, IOT & Geospatial Data Processing and Cellular Networking.   
 
 **At Work**
 
