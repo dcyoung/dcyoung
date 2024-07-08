@@ -1,6 +1,6 @@
 ![dcyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcyoung&show_icons=true&count_private=true)
 
-I am a passionate Machine Learning Engineer applying research to products. I am most effective conducting pragmatic research and building prototypes of future thinking technologies. I enjoy reasoning about systems, thinking through problems and applying technology with intent to create tooling where none exists. I hold multiple engineering degrees with experience in diverse fields including Bio-medical Research, Sensor Design and Manufacture, Robotics, Automation, Cloud Software and Document Processing.
+I am a passionate Engineer, applying research and building technology products. I enjoy reasoning about systems, thinking through problems and applying technology with intent to create tooling where none exists. I hold multiple engineering degrees with experience in diverse fields including Bio-medical Research, Sensor Design and Manufacture, Robotics, Automation, Document Processing, IOT & Geospatial Data Processing and Cellular Networking.   
 
 **At Work**
 
@@ -10,7 +10,7 @@ Day to day, I foster a friendly work atmosphere that promotes passionate, curiou
 
 With a focus on Deep Learning, I have identified and defined problems fit for ML, translated state-of-the-art research to production systems, and deployed scalable closed loop ML solutions to solve complex real-world challenges.
 
-I bring a wealth of hands-on experience applying deep learning to robotics, computer vision, image processing, NLP and document understanding. I have also presented on vision, R&D, technology and roadmaps to diverse audiences.
+I bring a wealth of experience in robotics, computer vision, NLP and document understanding. I have also presented on vision, R&D, technology and roadmaps to diverse audiences.
 
 For comprehensive work experience, checkout my [Resume](https://dcyoung.github.io/resume/)
 
@@ -18,11 +18,9 @@ For insight into my engineering process, checkout my [ML Practitioner's Guide](h
 
 **At Play**
 
-My passion projects combine data driven design, art and engineering.
+Outside of work I enjoy building things with my hands. My passion projects combine data driven design, art and engineering. 
 
-I love generative AI, interactive 3D graphics and rapid physical prototyping.
-
-You can usually find me playing music, mountain biking or adventuring outdoors.
+You can also find me playing music, mountain biking, motorcycling or adventuring outdoors.
 
 You can checkout side projects on my tech blog: [dcyoung.github.io](https://dcyoung.github.io)
 
